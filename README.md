@@ -5,7 +5,7 @@ Un pequeño codigo en c...
 
 >#include<stdio.h>
 >int main(){
->  printf("Hola Administración de Proyectos de Software");
->  printf("Disfrutemos de aprender cada día ");
+>  printf("Hola Administración de Proyectos de Software\n");
+>  printf("Disfrutemos de aprender cada día\n");
 >return 0;
 >}
