@@ -2,7 +2,7 @@
 
 Aquí podremos crear nuestros proyectos para poder trabajar en equipo.
 
-Un pequeño codigo en c...
+Un pequeño codigo en lenguaje C.
 
 #include<stdio.h>
 int main(){
