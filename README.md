@@ -4,8 +4,7 @@
 
 #include<stdio.h>
 int main(){
-  printf("Hola Administracion de Proyectos de Software");
+>  printf("Hola Administracion de Proyectos de Software");
   printf("Disfrutemos de aprender cada día ");
-  
 return 0;
 }
