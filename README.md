@@ -12,4 +12,6 @@ Un pequeño codigo en c...
 
 >printf("Disfrutemos de aprender cada día ");
 
->return 0; }
+>return 0; 
+
+}
